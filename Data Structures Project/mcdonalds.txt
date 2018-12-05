@@ -1,0 +1,11 @@
+McDonald's
+2455 W Wisconsin Ave.
+(414)-937-3750
+mcdonalds.com
+0500-0000
+American
+Fast Food
+$1-$5
+Burgers,Fries,Milkshakes
+$3.00,$1.50,$2.00
+3;8.0
